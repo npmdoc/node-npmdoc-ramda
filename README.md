@@ -1,6 +1,6 @@
 # npmdoc-ramda
 
-#### api documentation for  [ramda (v0.23.0)](http://ramdajs.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ramda.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ramda) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ramda.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ramda)
+#### basic api documentation for  [ramda (v0.23.0)](http://ramdajs.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ramda.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ramda) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ramda.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ramda)
 
 #### A practical functional library for JavaScript programmers.
 
@@ -125,7 +125,8 @@
         "precoverage": "npm run pretest",
         "test": "mocha --reporter spec"
     },
-    "version": "0.23.0"
+    "version": "0.23.0",
+    "bin": {}
 }
 ```
 
